@@ -6,3 +6,4 @@ TensorFlow developer course by Zero to Mastery.
 * Fundumentals of progrmming with TensorFlow
 * Introduction to regression with TensorFlow
 * Binary and multi-class classification in TensorFlow
+* Concolutional Neural Networks and Computer Vision problems
