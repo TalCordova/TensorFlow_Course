@@ -10,3 +10,6 @@ Most of the notebooks in this directory were created in google colab, in some ca
 * Convolutional Neural Networks and Computer Vision problems in [notebook 03](https://github.com/TalCordova/TensorFlow_Course/blob/main/03_convolutional_neural_networks_with_tensorflow.ipynb).
   * **Note**: This notebook was finished with PyCharm.
 * Transfer Learning - feature extractrion with transfer learning in [notbook 04](https://github.com/TalCordova/TensorFlow_Course/blob/main/04_transfer_learning_with_tensorflow_part_1.ipynb)
+* Transfer Learning - Fine tuning a model in [notebook 05] (https://github.com/TalCordova/TensorFlow_Course/blob/main/05_transfer_learning_with_tensorflow_part_2.ipynb)
+* Trnasfer Learning - Creating a model to beat the original [Food101 Paper] (https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/static/bossard_eccv14_food-101.pdf) in [notebook 06] (https://github.com/TalCordova/TensorFlow_Course/blob/main/06_transfer_learning_with_tensorflow_part_3_scaling_up.ipynb)
+* Transfer Learning - 
