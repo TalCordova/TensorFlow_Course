@@ -16,3 +16,4 @@ Most of the notebooks in this directory were created in google colab, in some ca
   * **Note**: The notebook was completed using PyCharm
 * Intoduction to NLP - Creating a classification model for disaster\no disaster tweets with Tensorflow in [notebook 08](https://github.com/TalCordova/TensorFlow_Course/blob/main/08_introduction_to_nlp_with_tensorflow.ipynb)
 * Creating SkimLit - and NLP model for abstract skimming: the model takes wach line and classifiy it to the right section in PubMed abstract, based on [PubMed 200k RCT](https://arxiv.org/abs/1710.06071) in [notebook 09](https://github.com/TalCordova/TensorFlow_Course/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb) 📄🔥
+* Forecast the price of BitCoin using time series modelling with TensorFlow in [notebook 10](https://github.com/TalCordova/TensorFlow_Course/blob/main/10_time_series_forecasting_with_tensorflow.ipynb) 💰📈
